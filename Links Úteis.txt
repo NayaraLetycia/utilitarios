@@ -2,3 +2,4 @@ Links úteis
 
 SQLite - https://sqlitestudio.pl/
 Maven Repository - https://mvnrepository.com/
+Editor de Python Online - https://www.programiz.com/python-programming/online-compiler/
